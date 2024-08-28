@@ -1,0 +1,433 @@
+.b-body{
+
+    margin: 0;
+}
+.main-image{
+    width: 100%;
+    height: auto; 
+}
+.text-img{
+    position: relative;
+    top: -856px;
+    left: 60px;
+    height: 73px;
+}
+.head-text-sec{
+    position: relative;
+    width: 1001px;
+    height: 60px;
+    margin-top: -923px;
+    margin-left: 336px;
+    
+}
+.h-home{
+    position: relative;
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    top: 15px;
+    left: 15px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.h-rew{
+    position: relative;
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    top: 15px;
+    left: 40px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.h-prod{
+    position: relative;
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    top: 15px;
+    left: 63px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+
+}
+.h-merch{
+    position: relative;
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    top: 15px;
+    left: 89px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.h-tut{
+    position: relative;
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    top: 16px;
+    left: 108px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.h-peppak{
+    position: relative;
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    top: 17px;
+    left: 129px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.h-whtnw{
+    position: relative;
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    top: 17px;
+    left: 153px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.h-faq{
+    position: relative;
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    top: 18px;
+    left: 178px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.body-text{
+    position: relative;
+   
+    height: 421px;
+    width: 562px;
+    margin-top: 189px;
+    margin-left: 183px;
+}
+.rsh{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 900;
+    font-size: 49px;
+    top: 25px;
+    left: 0px;
+
+}
+.para-redy{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-size: 18px;
+    top: 0px;
+    left: 0px;
+    line-height: 1.5; 
+}
+.lrn-mor{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    color: darkred;
+    border-radius: 50px;
+    top: 24px;
+    left: 0px;
+    font-weight: bold;
+    padding: 14px 40px;
+    box-shadow: none;
+    font-size: 16px;
+}
+.pge-2{
+    position: relative;
+    width: 100%;
+    height: 408px;
+    top: 150px;
+}
+.pge-sticker{
+    position: relative;
+    height: 341px;
+    top: -225px;
+    left: 318px;
+
+}
+
+.secondpagetext{
+    position: relative;
+    width: 500px;
+    height: 308px;
+    margin-top: -556px;
+    margin-left: 814px;
+   
+}
+.pepperthing{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    top: 30px;
+    left: 0px;
+}
+.sgn-log{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    color: darkred;
+    border-radius: 50px;
+    top: 16px;
+    left: 0px;
+    font-weight: bold;
+    padding: 14px 40px;
+    box-shadow: none;
+    font-size: 16px;
+}
+.pagethreediv{
+    position: absolute;
+    width: 100%;
+    height: 402px;
+    background-color: rgb(200, 21, 51);
+}
+.thirdpgetxtdiv{
+    position: relative;
+    width: 581px;
+    height: 277px;
+    top: 43px;
+    left: 177px;
+}
+.fyf{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    top: 0px;
+    left: 0px;
+}
+.merchswag{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-size: 18px;
+    top: 0px;
+    left: 0px;
+    line-height: 1.5; 
+}
+.shp-merch{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    color: darkred;
+    border-radius: 50px;
+    top: 16px;
+    left: 0px;
+    font-weight: bold;
+    padding: 14px 40px;
+    box-shadow: none;
+    font-size: 16px;
+}
+.tshirt{
+    position: relative;
+    height: 354px;
+    top: -259px;
+    left: 749px;
+}
+.forthblackbag{
+    position : relative;
+    width: 100%;
+    height: 383px;
+    background-color: black;
+    top: 372px;
+    
+}
+.forth-text{
+    position: relative;
+    width: 575px;
+    height: 267px;
+    top: 80px;
+    left: 785px;
+}
+.blackhead{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    top: 0px;
+    left: 0px;
+}
+.blackfoot{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-size: 22px;
+    top: 0px;
+    left: 0px;
+    line-height: 1.5;
+}
+.explore-button{
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    color: darkred;
+    border-radius: 50px;
+    top: 7px;
+    left: 0px;
+    font-weight: bold;
+    padding: 14px 40px;
+    box-shadow: none;
+    font-size: 16px;
+}
+.soda{
+    position: relative;
+    height: 384px;
+    top: -268px;
+    left: 267px;
+}
+.footerwhite{
+    position : relative;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    top: 372px;
+}
+.redone{
+    position: relative;
+    width: 100%;
+    height: 179px;
+    background-color: rgb(148, 8, 8);
+    top: 2px;
+}
+.text-img-second{
+    position: relative;
+    height: 54px;
+    top: 45px;
+    left: 86px;
+}
+.peppercom{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: 66px;
+    left: -19px;
+}
+.r1faq{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: 15px;
+    left: 63px;
+}
+.r1contact{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: 60px;
+    left: 23px;
+}
+.r1ppol{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: 13px;
+    left: 121px;
+}
+.r1capr{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: 46px;
+    left: 0px;
+}
+.r1wrninfo{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: 58px;
+    left: 476px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+}
+.r1cap1{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: -65px;
+    left: 790px;
+}
+.r1cap2{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: -31px;
+    left: 678px;
+}
+.r1cap3{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: 4px;
+    left: 569px;
+}
+.r1cap4{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: -66px;
+    left: 616px;
+}
+.r1cap5{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: -30px;
+    left: 547px;
+}
+.r1cap6{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    top: 3px;
+    left: 363px;
+}
+.redtwo{
+    position: relative;
+    width: 100%;
+    height: 131px;
+    background-color: rgb(148, 8, 8);
+    top: -7px;
+}
+.lastleft{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-size: 12px;
+    top: 75px;
+    left: 41px;
+}
+.lastright{
+    position: relative;
+    color: rgb(255, 255, 255);
+    font-family: 'Aktiv Grotesk Extended', sans-serif;
+    font-size: 12px;
+    top: 51px;
+    left: 1333px;
+}
